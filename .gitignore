@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.pytest_cache/
+.streamlit/secrets.toml
+results/raw/*
+results/processed/*
+results/tables/*
+results/figures/*
+!results/**/.gitkeep
+.DS_Store
